@@ -12,7 +12,6 @@ Each task is organized into its own folder, containing the relevant notebooks, d
 * **Dataset:** NYC Yellow Taxi Trip Records.
 * **Tools:** Python, PySpark, Pandas, Matplotlib.
 * **Description:** This project involved loading, cleaning, and analyzing millions of taxi trip records. I explored key metrics such as peak travel hours, popular payment methods, and the relationship between trip distance and fare amount to demonstrate the power of distributed computing.
-* **Location:** `Task-1/Big_Data_Analysis.ipynb`
 
 ---
 ### Task 2: Predictive Analysis using Machine Learning
@@ -20,7 +19,6 @@ Each task is organized into its own folder, containing the relevant notebooks, d
 * **Project:** Customer Churn Prediction.
 * **Tools:** Python, Scikit-learn, Pandas, Seaborn.
 * **Description:** I developed a classification model to predict whether a customer would churn from a telecom service. The project covered the end-to-end machine learning workflow, including data preprocessing, feature engineering, model training (Logistic Regression), and performance evaluation using metrics like accuracy and a classification report.
-* **Location:** `Task-2/Customer_Churn_Prediction.ipynb`
 
 ---
 ### Task 3: Dashboard Development in Power BI
@@ -28,7 +26,6 @@ Each task is organized into its own folder, containing the relevant notebooks, d
 * **Tool:** Microsoft Power BI.
 * **Dataset:** Superstore Sales Dataset.
 * **Description:** I designed a dynamic sales dashboard to provide a high-level overview of business performance. The dashboard features key performance indicators (KPIs), trend analysis over time, and interactive filters for region and product category, allowing users to drill down and uncover actionable insights.
-* **Location:** `Task-3/Sales_Dashboard.pbix`
 
 ---
 ### Task 4: Sentiment Analysis with NLP
@@ -36,7 +33,6 @@ Each task is organized into its own folder, containing the relevant notebooks, d
 * **Project:** US Airline Twitter Sentiment Analysis.
 * **Tools:** Python, NLTK, Scikit-learn (TF-IDF).
 * **Description:** This project involved building an NLP model to classify tweets as positive, negative, or neutral. The process included comprehensive text preprocessing (removing stopwords, URLs, and punctuation), converting text to numerical vectors using TF-IDF, and training a machine learning model to predict sentiment.
-* **Location:** `Task-4/Sentiment_Analysis.ipynb`
 
 ---
 ## Technologies & Skills
